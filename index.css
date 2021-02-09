@@ -1,0 +1,2 @@
+body ul{display:block;margin:0 auto;max-width:1020px}body{background-color:grey;color:#0ff}body ul{display:grid;grid-template-columns:repeat(4,1fr);text-transform:uppercase}body ul li{color:#0ff}@media (max-width:1200px){body ul li{font-size:36px}}
+/*# sourceMappingURL=/index.css.map */
